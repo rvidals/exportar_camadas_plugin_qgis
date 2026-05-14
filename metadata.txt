@@ -1,0 +1,8 @@
+[general]
+name=Exportador de Camadas
+qgisMinimumVersion=3.0
+description=Exporta camadas automaticamente: sufixo _geoportal para GeoJSON e _inde para Shapefile
+version=0.0
+author=Rogerio Vidal de Siqueira
+email=rogeriovidalsiqueira@gmail.com
+icon=icon.png

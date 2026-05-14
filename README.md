@@ -187,7 +187,7 @@ Permission is hereby granted, free of charge...
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Rogerio Vidal de Siqueira**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rvidals)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_PERFIL](https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/?isSelfProfile=false))
